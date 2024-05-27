@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\bin\Debug\Alg_Hill.exe.config
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\bin\Debug\Alg_Hill.exe
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\bin\Debug\Alg_Hill.pdb
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.Form1.resources
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.Properties.Resources.resources
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.exe
+C:\Users\admin\source\repos\Alg_Hill\Alg_Hill\obj\Debug\Alg_Hill.pdb
